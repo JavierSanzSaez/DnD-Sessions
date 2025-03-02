@@ -1,0 +1,15 @@
+- Acid: #80b000 
+- Cold: #3399cc 
+- Fire: #ee5500 
+- Force: #cc3333 
+- Healing: #30bbbb 
+- Lightning: #3366cc 
+- Necrotic: #40b050 
+- Poison: #44bb00 
+- Radiant: #ccaa00 
+- Thunder: #8844bb 
+- Psychic: #cc77aa 
+- Physical: #8c8c8c 
+- Piercing: #8c8c8c 
+- Bludgeoning: #8c8c8c 
+- Slashing: #8c8c8c

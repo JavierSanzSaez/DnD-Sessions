@@ -1,4 +1,4 @@
-### Plot Framework: “The Order of Arcanum”
+## Plot Framework: “The Order of Arcanum”
 
 #### Setting:
 
@@ -13,13 +13,9 @@ The Order is based within the hallowed halls of Hogwarts but is exclusively for 
 
 The Order of Arcanum has uncovered a hidden chamber within Hogwarts that dates back to the school’s founders. The chamber was intended as a secret testing ground where only those worthy of inheriting the founders’ knowledge could enter. The session revolves around the players exploring this chamber, learning powerful spells linked to the founders themselves, and passing ancient trials that test their magical prowess and character.
 
-#### **Plot Summary:**
-
 The players are chosen to participate in a once-in-a-lifetime event at Hogwarts: exploring the **Hall of Forgotten Arts**, a hidden part of the castle that can only be opened once every century. It’s said that those who complete the trials within the hall will gain access to ancient spells tied to the four founders: Godric Gryffindor, Rowena Ravenclaw, Helga Hufflepuff, and Salazar Slytherin. However, the hall is filled with complex puzzles, magical traps, and creatures that will push the players to their limits.
 
-#### **Session Structure:**
-
-You can break this session into three acts that highlight different aspects of spellcasting, teamwork, and puzzle-solving.
+## **Session Structure:**
 
 ### **Act 1: Entry to the Hall of Forgotten Arts (45 minutes)**
 
