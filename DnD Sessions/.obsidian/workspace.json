@@ -11,14 +11,12 @@
             "id": "a0b3abc8636f3b9a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": "DnD Sessions/.obsidian/workspace.json",
-                "bFile": "DnD Sessions/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "Hogwarts - The Order of Arcanum/Characters/Character sheets.svg"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-image",
+              "title": "Character sheets"
             }
           }
         ]
@@ -140,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Hogwarts - The Order of Arcanum/Characters/Character sheets.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Character sheets"
             }
           },
           {
@@ -178,10 +177,10 @@
   },
   "active": "a0b3abc8636f3b9a",
   "lastOpenFiles": [
+    "Hogwarts - The Order of Arcanum/Characters/Player Characters/Untitled.md",
+    "Hogwarts - The Order of Arcanum/Characters/Character sheets.svg",
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Elias Rosier - The Reluctant Heir.md",
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Aurelia Brewerton – The Alchemical Virtuoso.md",
-    "Hogwarts - The Order of Arcanum/Characters/Character sheets.svg",
-    "Hogwarts - The Order of Arcanum/Characters/Player Characters/Untitled.md",
     "Hogwarts - The Order of Arcanum/Images/Character sheet background.jpeg",
     "Hogwarts - The Order of Arcanum/Images/DALL·E 2025-03-02 13.42.44 - A magical parchment background designed for a Dungeons & Dragons character sheet set in a mystical real-world setting. The parchment has an aged, ench.webp",
     "Hogwarts - The Order of Arcanum/Images/DALL·E 2025-03-02 13.42.44 - A magical parchment background designed for a Dungeons & Dragons character sheet set in a mystical real-world setting. The parchment has an aged, ench.webp.crdownload",
