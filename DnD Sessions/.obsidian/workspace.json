@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hogwarts - The Order of Arcanum/Characters/NPCs/Guardian of Slytherin – The Serpent King.md",
+                "file": "Hogwarts - The Order of Arcanum/Characters/Player Characters/Elias Rosier - The Reluctant Heir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guardian of Slytherin – The Serpent King"
+              "title": "Elias Rosier - The Reluctant Heir"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hogwarts - The Order of Arcanum/Characters/NPCs/Guardian of Slytherin – The Serpent King.md",
+                "file": "Hogwarts - The Order of Arcanum/Characters/Player Characters/Elias Rosier - The Reluctant Heir.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Guardian of Slytherin – The Serpent King"
+              "title": "Outline of Elias Rosier - The Reluctant Heir"
             }
           },
           {
@@ -179,10 +179,12 @@
   },
   "active": "a0b3abc8636f3b9a",
   "lastOpenFiles": [
+    "Hogwarts - The Order of Arcanum/Characters/Player Characters/Aurelia Brewerton – The Alchemical Virtuoso.md",
+    "Hogwarts - The Order of Arcanum/Characters/Character sheets",
+    "Hogwarts - The Order of Arcanum/Characters/NPCs/Guardian of Slytherin – The Serpent King.md",
     "Hogwarts - The Order of Arcanum/Characters/Character sheets.svg",
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Untitled.md",
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Elias Rosier - The Reluctant Heir.md",
-    "Hogwarts - The Order of Arcanum/Characters/Player Characters/Aurelia Brewerton – The Alchemical Virtuoso.md",
     "Hogwarts - The Order of Arcanum/Images/Character sheet background.jpeg",
     "Hogwarts - The Order of Arcanum/Images/DALL·E 2025-03-02 13.42.44 - A magical parchment background designed for a Dungeons & Dragons character sheet set in a mystical real-world setting. The parchment has an aged, ench.webp",
     "Hogwarts - The Order of Arcanum/Images/DALL·E 2025-03-02 13.42.44 - A magical parchment background designed for a Dungeons & Dragons character sheet set in a mystical real-world setting. The parchment has an aged, ench.webp.crdownload",
@@ -198,7 +200,6 @@
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Isolde Fairbrook, The Warden’s Aegis.md",
     "Hogwarts - The Order of Arcanum/Characters/NPCs/Cassius Faulkner.md",
     "Hogwarts - The Order of Arcanum/Plot/Act Three.md",
-    "Hogwarts - The Order of Arcanum/Characters/NPCs/Guardian of Slytherin – The Serpent King.md",
     "Hogwarts - The Order of Arcanum/Characters/NPCs/Guardian of Ravenclaw – The Arcane Sentinel.md",
     "Hogwarts - The Order of Arcanum/Characters/NPCs/Guardian of Hufflepuff – The Warden of the Earth.md",
     "Hogwarts - The Order of Arcanum/Characters/NPCs/Guardian of Gryffindor – The Flame Warden.md",
@@ -215,7 +216,6 @@
     "Hogwarts - The Order of Arcanum/Characters/Player Characters",
     "Hogwarts - The Order of Arcanum/Characters/NPCs",
     "Hogwarts - The Order of Arcanum/Characters",
-    "Untitled",
-    "Hogwarts - The Order of Arcanum/Locations/The Hall of the Founders/dungeon (1).ds"
+    "Untitled"
   ]
 }
