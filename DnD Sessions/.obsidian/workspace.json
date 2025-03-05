@@ -11,12 +11,14 @@
             "id": "6ef55fa5edf6475c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Hogwarts - The Order of Arcanum/Characters/Character sheets/Elias Rosier.svg"
+                "file": "Hogwarts - The Order of Arcanum/Characters/Player Characters/Elias Rosier - The Reluctant Heir.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Elias Rosier"
+              "icon": "lucide-file",
+              "title": "Elias Rosier - The Reluctant Heir"
             }
           }
         ]
@@ -138,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hogwarts - The Order of Arcanum/Characters/Character sheets/Elias Rosier.svg",
+                "file": "Hogwarts - The Order of Arcanum/Characters/Player Characters/Elias Rosier - The Reluctant Heir.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elias Rosier"
+              "title": "Outline of Elias Rosier - The Reluctant Heir"
             }
           },
           {
@@ -177,14 +179,14 @@
   },
   "active": "6ef55fa5edf6475c",
   "lastOpenFiles": [
-    "Hogwarts - The Order of Arcanum/Characters/Character sheets/Elias Rosier.svg",
+    "Hogwarts - The Order of Arcanum/Characters/Character sheets.svg",
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Elias Rosier - The Reluctant Heir.md",
+    "Hogwarts - The Order of Arcanum/Characters/Character sheets/Elias Rosier.svg",
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Rowan Alderidge - The Unyielding Bastion.md",
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Ronan Ironheart - The Iron Fist.md",
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Aurelia Brewerton – The Alchemical Virtuoso.md",
     "Hogwarts - The Order of Arcanum/Characters/Character sheets",
     "Hogwarts - The Order of Arcanum/Characters/NPCs/Guardian of Slytherin – The Serpent King.md",
-    "Hogwarts - The Order of Arcanum/Characters/Character sheets.svg",
     "Hogwarts - The Order of Arcanum/Images/Character sheet background.jpeg",
     "Hogwarts - The Order of Arcanum/Images/DALL·E 2025-03-02 13.42.44 - A magical parchment background designed for a Dungeons & Dragons character sheet set in a mystical real-world setting. The parchment has an aged, ench.webp",
     "Hogwarts - The Order of Arcanum/Images/DALL·E 2025-03-02 13.42.44 - A magical parchment background designed for a Dungeons & Dragons character sheet set in a mystical real-world setting. The parchment has an aged, ench.webp.crdownload",
