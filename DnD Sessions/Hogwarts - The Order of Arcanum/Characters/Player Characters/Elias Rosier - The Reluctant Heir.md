@@ -25,7 +25,6 @@ Elias Rosier was born into one of the most feared and revered pure-blood familie
 But Elias never saw his name as a blessing. To him, it was a brand, one that marked him as something he never wished to be. His childhood was spent in grand halls filled with relics of a past he wanted no part of, under the constant scrutiny of a family that measured worth by power rather than by kindness. When he was of age, he attended **Durmstrang Institute of Magic**, where he excelled in dueling and arcane theory—not out of passion, but out of necessity. Strength was expected, and failure was not an option.
 
 Upon finishing his studies, Elias was meant to return home, to take his place in the family's intricate web of influence. Instead, he vanished from high society, choosing the anonymity of the streets over the suffocating walls of his family's estate. He survived on wit, charm, and talent, offering his magical skills for hire—whether it was enchanting objects, forging documents, or occasionally using his dueling prowess to solve disputes for those who could afford his services. Yet, no matter how far he ran, the Rosier name followed, a shadow creeping at the edges of his new life.
-
 #### **Occupation:**
 
 A wandering **arcane duelist and magical problem-solver** for those in need—whether they be desperate merchants, spurned lovers, or rebellious youth looking to challenge their elders. Though he tries to avoid anything that ties him back to the Rosier legacy, he is still a Rosier in skill, if not in spirit. His name carries weight in certain circles, whether he wants it to or not.
@@ -37,6 +36,7 @@ The letter arrived when he least expected it, slipped under the door of a rented
 _"A name can be both a blessing and a curse, Elias. Yours may yet be both."_
 
 Something in him knew—this wasn’t just another opportunity for adventure. This was fate catching up. And whether it was to claim or to free him, he had no choice but to answer the call.
+
 ---
 
 ### **Core Spells**
