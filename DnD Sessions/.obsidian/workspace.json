@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hogwarts - The Order of Arcanum/Plot/Plot.md",
+                "file": "Hogwarts - The Order of Arcanum/Game mechanics/Spellcasting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plot"
+              "title": "Spellcasting"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 200
   },
   "right": {
     "id": "ac63629c74c5376b",
@@ -180,6 +180,11 @@
   },
   "active": "6ef55fa5edf6475c",
   "lastOpenFiles": [
+    "Hogwarts - The Order of Arcanum/Bibliografía/Hogwarts - Juego de rol.pdf",
+    "Hogwarts - The Order of Arcanum/Bibliografía/Hogwarts - Juego de rol.pdf.crdownload",
+    "Hogwarts - The Order of Arcanum/Bibliografía",
+    "Hogwarts - The Order of Arcanum/Plot/Plot.md",
+    "Hogwarts - The Order of Arcanum/Game mechanics/Spellcasting.md",
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Elias Rosier - The Reluctant Heir.md",
     "Hogwarts - The Order of Arcanum/Characters/Character sheets.svg",
     "Hogwarts - The Order of Arcanum/Characters/Character sheets/Elias Rosier.svg",
@@ -195,7 +200,6 @@
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Celeste Fairbourne – The Scholar of Forgotten Arts.md",
     "Hogwarts - The Order of Arcanum/Plot/Act One.md",
     "Hogwarts - The Order of Arcanum/Plot/Act Two.md",
-    "Hogwarts - The Order of Arcanum/Plot/Plot.md",
     "Hogwarts - The Order of Arcanum/Game mechanics/Spellbook.md",
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Oswin Brightwell - The Radiant Dreamer.md",
     "Hogwarts - The Order of Arcanum/Characters/Player Characters/Lyra Caldwell - The Arcane Daredevil.md",
@@ -211,13 +215,10 @@
     "Hogwarts - The Order of Arcanum/Meta/Colour Scheme.md",
     "Hogwarts - The Order of Arcanum/Items/The Warden's Grasp.md",
     "Hogwarts - The Order of Arcanum/Items/The Serpent's Fang.md",
-    "Hogwarts - The Order of Arcanum/Items/The Shield of the Brave.md",
     "Hogwarts - The Order of Arcanum/Meta",
     "Hogwarts - The Order of Arcanum/Items",
     "Hogwarts - The Order of Arcanum/Locations/Hogwarts",
     "Hogwarts - The Order of Arcanum/Characters/Player Characters",
-    "Hogwarts - The Order of Arcanum/Characters/NPCs",
-    "Hogwarts - The Order of Arcanum/Characters",
-    "Untitled"
+    "Hogwarts - The Order of Arcanum/Characters/NPCs"
   ]
 }
