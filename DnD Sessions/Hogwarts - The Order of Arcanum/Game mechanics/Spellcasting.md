@@ -9,5 +9,3 @@ Each character has a proficiency level for every School of Magic. This level aff
 |**Competent**|The character has had some practice and understands the foundations.|**+0 (neutral)**|
 |**Proficient**|The character has been trained and actively uses spells from this school.|**+1 bonus**|
 |**Mastery**|The character is an expert or specialist in this magical discipline.|**+2 bonus**|
-
-You can track this with symbols or icons on the character sheet (e.g., ⭐☆☆☆☆ for Competent).
