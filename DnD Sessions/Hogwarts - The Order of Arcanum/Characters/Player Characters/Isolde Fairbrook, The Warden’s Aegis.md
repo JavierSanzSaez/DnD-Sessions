@@ -26,6 +26,7 @@ _"Some build walls to keep others out. I build them so we can stand together."_
 - **INT:** 10 (+0)
 - **WIS:** 16 (+3)
 - **CHA:** 12 (+1)
+- **Sorcery Points:** 13
 - **HP:** 96 _(d8 hit die, high Constitution modifier, toughened by protective magic.)_
 - **AC:** 17 _(Sturdy magical armor, shield spell capability.)_
 - **Speed:** 30 ft

@@ -28,6 +28,7 @@ _"A name can be both a blessing and a curse. Mine is the latter."_
 - **INT:** 16 (+3)
 - **WIS:** 12 (+1)
 - **CHA:** 18 (+4)
+- **Sorcery Points:** 14
 - **HP:** 78 _(Based on a d8 hit die at level 12, with Constitution modifiers.)_
 - **AC:** 14 _(Reinforced Longcoat: +1 AC bonus.)_
 - **Speed:** 30 ft

@@ -29,6 +29,7 @@ _"There’s no chaos a well-brewed potion can’t fix... or cause."_
 - **INT:** 18 (+4)
 - **WIS:** 12 (+1)
 - **CHA:** 14 (+2)
+- **Sorcery Points:** 12
 - **HP:** 84 _(more fragile but resilient with defensive potions)_
 - **AC:** 15 _(base defense enhanced by protective elixirs and clever magical tweaks.)_
 - **Speed:** 30 ft

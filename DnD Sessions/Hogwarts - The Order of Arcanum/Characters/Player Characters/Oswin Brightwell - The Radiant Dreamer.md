@@ -29,6 +29,7 @@ _"Even in the deepest gloom, I see the promise of a new dawn—if you only dare 
 - **INT:** 12 (+1)
 - **WIS:** 16 (+3)
 - **CHA:** 18 (+4)
+- **Sorcery Points:** 13
 - **HP:** 78 _(Based on a d8 hit die at level 12, with Constitution modifiers.)_
 - **AC:** 14 _(Reinforced Longcoat: +1 AC bonus.)_
 - **Speed:** 30 ft
