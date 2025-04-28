@@ -1,57 +1,96 @@
 _"A name can be both a blessing and a curse. Mine is the latter."_
-### **Core Information**
-
-- **School of Magic:** **Durmstrang Institute**
-- **Hogwarts House Alignment:** **Slytherin** (if he had attended Hogwarts)
 
 ---
-### **Stats (DnD 5e)**
+## **Basic Information**
+
+- **Level:** **12** _(An experienced but self-exiled wizard, capable of handling serious magical threats.)_
+- **School of Magic:** **Beauxbatons Academy of Magic**
+- **Hogwarts House Alignment:** **Slytherin** _(Had he attended Hogwarts.)_
+- **Background:**  
+    Born into the notorious Rosier family, Elias was raised in the shadow of power and expectation. His bloodline demanded he embrace the Dark Arts and uphold their influence in the wizarding world. But Elias wanted none of it. Rather than becoming his father’s heir, he walked away, leaving behind the cold halls of his family estate for a life of anonymity.
+    
+    Now a **wandering duelist and problem-solver**, Elias hires out his skills to those who can pay—not as a scholar of forbidden magic, but as a rogue who understands it better than most. Though he lives as if untethered, the Rosier name follows him like a curse, whispered in backrooms and shadowed alleys.
+    
+- **Missive:**  
+    A letter found him in a dimly lit tavern, sealed in black wax with no return name. Inside, an elegant script warned:
+    
+    _“You can run, Elias, but you can never outrun yourself. The Hall calls to you. Face it, or let it consume you.”_
+    
+    He doesn’t know who sent it, but something in his blood tells him he won’t be able to ignore it.
+    
+
+---
+## **Attributes & Stats**
 
 - **STR:** 10 (+0)
 - **DEX:** 14 (+2)
 - **CON:** 12 (+1)
 - **INT:** 16 (+3)
 - **WIS:** 12 (+1)
-- **CHA:** 18 (+4
-- **HP:** 32
-- **AC:** 13 (Reinforced longcoat)
+- **CHA:** 18 (+4)
+- **HP:** 78 _(Based on a d8 hit die at level 12, with Constitution modifiers.)_
+- **AC:** 14 _(Reinforced Longcoat: +1 AC bonus.)_
 - **Speed:** 30 ft
+### **Saving Throws:**
+
+- **Strength:** +0
+- **Dexterity:** +2
+- **Constitution:** +1
+- **Intelligence:** **+7** _(Proficiency bonus applied)_
+- **Wisdom:** **+5** _(Proficiency bonus applied)_
+- **Charisma:** +4
+
+### **Proficiency Skills:**
+
+- **Arcana:** +7 _(INT + proficiency bonus)_
+- **Deception:** +8 _(CHA + proficiency bonus)_
+- **Insight:** +5 _(WIS + proficiency bonus)_
+- **Persuasion:** +8 _(CHA + proficiency bonus)_
 
 ---
-#### **Background:**
+## **Spell Proficiencies**
 
-Elias Rosier was born into one of the most feared and revered pure-blood families in wizarding Britain—a lineage steeped in power, influence, and whispered accusations of dark allegiances. From the moment he could hold a wand, expectations weighed on him like iron chains. His father, a cold and calculating figure, ensured that Elias understood the duty of his birthright: to uphold the Rosier name, to command respect, and to wield magic with precision and ruthlessness.
+_(Each school affects spellcasting rolls based on Elias’s experience.)_
 
-But Elias never saw his name as a blessing. To him, it was a brand, one that marked him as something he never wished to be. His childhood was spent in grand halls filled with relics of a past he wanted no part of, under the constant scrutiny of a family that measured worth by power rather than by kindness. When he was of age, he attended **Durmstrang Institute of Magic**, where he excelled in dueling and arcane theory—not out of passion, but out of necessity. Strength was expected, and failure was not an option.
+- **Charmcraft:** **Skilled** (+1)
+- **Transmutation:** **Novice** (−1)
+- **Divination:** **Trained** (0)
+- **Warding:** **Skilled** (+1)
+- **Alchemy:** **Trained** (0)
+- **Dark Arts:** **Mastered** (+2)
+- **Elemental Magic:** **Novice** (−1)
+- **Ancient Magic:** **Skilled** (+1)
 
-Upon finishing his studies, Elias was meant to return home, to take his place in the family's intricate web of influence. Instead, he vanished from high society, choosing the anonymity of the streets over the suffocating walls of his family's estate. He survived on wit, charm, and talent, offering his magical skills for hire—whether it was enchanting objects, forging documents, or occasionally using his dueling prowess to solve disputes for those who could afford his services. Yet, no matter how far he ran, the Rosier name followed, a shadow creeping at the edges of his new life.
-#### **Occupation:**
+---
+## **Items & Equipment**
 
-A wandering **arcane duelist and magical problem-solver** for those in need—whether they be desperate merchants, spurned lovers, or rebellious youth looking to challenge their elders. Though he tries to avoid anything that ties him back to the Rosier legacy, he is still a Rosier in skill, if not in spirit. His name carries weight in certain circles, whether he wants it to or not.
+### **Wand of the Rosier Bloodline**
 
-#### **How He Got the Missive:**
+- **Description:** A dark wood wand, 11 inches, rigid, with an unknown core. Passed down for generations.
+- **Effect:** Grants **+1 to spell attack rolls with Dark Arts spells** but reacts unpredictably when used for Healing or Protective Magic.
 
-The letter arrived when he least expected it, slipped under the door of a rented room in a small wizarding village. No signature, no sign of how it got there. It spoke of a place beyond time, a hall filled with knowledge and power that had remained untouched for centuries. But what unsettled him most was the closing line:
+### **Reinforced Longcoat** _(Warded Leather Duster)_
 
-_"A name can be both a blessing and a curse, Elias. Yours may yet be both."_
+- **Effect:** Provides **+1 AC** and resistance to cold damage.
 
-Something in him knew—this wasn’t just another opportunity for adventure. This was fate catching up. And whether it was to claim or to free him, he had no choice but to answer the call.
+### **Sealing Pendant** _(Obscures Magical Signature)_
+
+- **Effect:** Once per day, Elias can erase traces of his magical aura, making it harder to track him magically.
 
 ---
 
-### **Core Spells**
-- **Serpent’s Embrace** _(2d6 Poison, #44bb00, 30ft, Save CON)_
-    - A spectral green serpent coils around an enemy, crushing them while injecting venom. On a failed Constitution save, the target is **Poisoned** for 1 turn.
-- **Umbral Veil** _(Self, 3 turns, Partial Invisibility)_
-    - Elias vanishes into shifting shadows. Attackers have **disadvantage** against him while this is active.
-- **Malevolent Rebuke** _(Reaction, 2d4 Psychic, #cc77aa, 30ft)_
-    - When hit by a spell, Elias can absorb part of the magic and send a backlash of raw mental energy to the caster.
+## **Special Features & Roleplaying Tips**
 
----
-### **Items & Benefits**
-
-- **Rosier’s Wand** _(Darkwood, Basilisk Bone Core)_
-    - **Grants advantage on spell saves vs. mind-affecting magic.**
-- **Reinforced Longcoat** _(AC 13, grants resistance to Cold damage #3399cc)_
-- **Sealing Pendant** _(A silver amulet enchanted to suppress magical tracking.)_
-    - **Once per day, allows Elias to erase traces of his own magic.**
+- **Special Abilities:**
+    - _Shadowborn Reflexes:_ Elias has advantage on saving throws against **mind-affecting magic**.
+    - _Dueling Expertise:_ Gains a +1 bonus to attack rolls when facing a single opponent in a duel.
+    
+- **Personality & Roleplaying Notes:**
+    - Elias is a **rogue in high society**—he carries the grace of his lineage but none of its loyalty.
+    - He speaks with **calculated charm**, rarely revealing his true emotions.
+    - Though he claims he wants **nothing to do with his family**, his bloodline still **pulls him toward the darker mysteries** of magic.
+    
+- **Quirks:**
+    - He **hates hearing his full name**; he prefers just "Elias."
+    - Keeps **his wand hidden in his coat sleeve** rather than in a holster.
+    - Despite his aversion to his past, he **still reads every letter his father sends—then burns them.**

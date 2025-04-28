@@ -1,83 +1,92 @@
 _"Even in the deepest gloom, I see the promise of a new dawn—if you only dare to believe."_
-#### **DnD Stats:**
 
-- **STR:** 8 (+0)
+---
+## **Basic Information**
+
+- **Level:** **12** _(An experienced but self-exiled wizard, capable of handling serious magical threats.)_
+- **School of Magic:** **Hogwarts School of Witchcraft and Wizardry**
+- **Hogwarts House Alignment:** **Hufflepuff**
+- **Background:**  
+	Born to a humble wizarding family near the outskirts of the Forbidden Forest, Oswin Brightwell's life has always been guided by a fierce and radiant hope. As a Hufflepuff student, he showed relentless curiosity and deep compassion, often chasing rumors of hidden magical creatures and ancient places.  
+	After graduation, he wandered the magical world as a self-declared "Explorer of Forgotten Wonders," chronicling the overlooked and the wondrous. His optimism, sometimes bordering on naivety, became his defining trait: he believes there's always light — even in the darkest of places.
+	
+	Despite his lack of formal titles, Oswin's discoveries (and sheer enthusiasm) caught the attention of quiet watchers within the magical world.
+    
+- **Missive:**  
+	While exploring an abandoned wizarding railway deep within the woods, Oswin stumbled upon a sentient, ancient journal. When he opened it, golden ink shimmered across the pages:  
+	_"To the one whose dreams endure —  
+	The Hall of Forgotten Arts stirs.  
+	Hope is needed. You are called."_
+	
+	Believing it was destiny, Oswin packed immediately, utterly thrilled at the chance to chase another great mystery.
+
+---
+## **Attributes & Stats**
+
+- **STR:** 10 (+0)
 - **DEX:** 14 (+2)
-- **CON:** 12 (+1)
-- **INT:** 16 (+3)
-- **WIS:** 10 (+0)
+- **CON:** 14 (+2)
+- **INT:** 12 (+1)
+- **WIS:** 16 (+3)
 - **CHA:** 18 (+4)
-- **HP:** 32
-- **AC:** 12 (Lightweight Cloak of Sunbeams)
+- **HP:** 78 _(Based on a d8 hit die at level 12, with Constitution modifiers.)_
+- **AC:** 14 _(Reinforced Longcoat: +1 AC bonus.)_
+- **Speed:** 30 ft
+### **Saving Throws:**
 
-#### **School of Magic:**
+- **Strength:** +0
+- **Dexterity:** +2
+- **Constitution:** +6 _(Proficiency bonus applied)_
+- **Intelligence:** **+1
+- **Wisdom:** **+7** _(Proficiency bonus applied)_
+- **Charisma:** +8 _(Proficiency bonus applied)_
 
-**Hogwarts School of Witchcraft and Wizardry** – where Oswin honed his unconventional style of magic, always with an eye toward hope and possibility.
+### **Proficiency Skills:**
 
-#### **Hogwarts House:**
-
-**Gryffindor** – Known for his boundless optimism and daring spirit, Oswin embodies the true heart of a Gryffindor, even if his ideas sometimes border on delusional.
-
-#### **Background:**
-
-Born to Muggle parents in a small town, Oswin discovered magic unexpectedly—an experience that transformed his entire view of the world. While others were cautious or even fearful of the unknown, Oswin embraced it with exuberance. At Hogwarts, his professors noted his tendency to see magic not as a tool bound by rules, but as an endless canvas for imagination. His optimism often leads him to take risks, convinced that every setback is merely a prelude to a magnificent breakthrough.
-
-#### **How He Got the Missive:**
-
-One crisp autumn morning, while watching a sunrise that seemed to light up even the darkest corners of his heart, Oswin found an enchanted envelope resting on his windowsill. The note, written in an elegant Latin script, read:  
-_"Lux est in omnibus, et in tenebris spes nascitur."_  
-("Light is in all things, and in darkness, hope is born.")  
-
-Convinced that fate itself was calling him, Oswin eagerly accepted the invitation to join the Order of Arcanum, certain that this was the next step on his path to reshaping magic itself.
+- Insight (+7)
+- Persuasion (+8)
+- Animal Handling (+7)
+- History (+5)
+- Arcana (+5)
 
 ---
+## **Spell Proficiencies**
 
-## **Core Spells**
+_(Each school affects spellcasting rolls based on Elias’s experience.)_
 
-#### **☀️ Sol Invictus** _(Radiant Fire)_
-
-_"Sol invictus, incende hostes!"_
-
-- Oswin conjures a burst of radiant fire from his wand, as if harnessing the power of the never-setting sun.
-- **Effect:** Deals **3d6 fire damage** to a target within 30 ft., with a **DC 15 Dexterity saving throw** for half damage.
-- **Thematic Note:** The spell’s brilliance seems to banish even the shadow of despair.
-
-#### **☀️ Lux Aeterna** _(Eternal Light)_
-
-_"Lux aeterna, effulge et dissipare tenebras!"_
-
-- A dazzling flash of light radiates from Oswin’s hand, temporarily blinding foes and illuminating hidden truths.
-- **Effect:** A 15-ft. burst that deals **2d6 radiant damage** (DC 15 Constitution save for half damage) and, on a failure, leaves the target **dazzled** (disadvantage on attack rolls until the start of Oswin's next turn).
-
-#### **☀️ Aetheris Volatus** _(Flight of Joy)_
-
-_"Aetheris volatus, fer me in caelum!"_
-
-- Oswin leaps through the air in a burst of buoyant energy, momentarily defying gravity.
-- **Effect:** Teleports him up to 20 ft. and leaves a brief trail of radiant sparks that deal **1d6 radiant damage** to adjacent enemies (DC 14 Dexterity save for half damage).
-
-#### **☀️ Felix Fortitudo** _(Cheerful Fortitude)_
-
-_"Felix fortitudo, dona auxilium!"_
-
-- With an exuberant gesture, Oswin infuses an ally with the vigor of endless hope.
-- **Effect:** Grants an ally **temporary HP equal to 1d8 + Oswin’s CHA modifier** for 1 minute and a **+2 bonus on their next saving throw**.
+- **Charmcraft:** **Mastered** (+2)
+- **Transmutation:** **Trained** (0)
+- **Divination:** **Mastered** (+2)
+- **Warding:** **Mastered** (+2)
+- **Alchemy:** **Novice** (−1)
+- **Dark Arts:** **Ignored** (−2)
+- **Elemental Magic:** **Novice** (−1)
+- **Ancient Magic:** **Ignored** (−2)
 
 ---
-
 ## **Items & Equipment**
 
-#### **🔸 Radiant Circlet**
+### **Wand of Luminous Hope**
+- _Effect:_ Once per long rest, when Oswin or an ally within 30 feet fails a saving throw, they may reroll it with advantage.
 
-- **Description:** A delicate circlet inlaid with small, shimmering sunstones.
-- **Benefit:** Increases spell potency by granting a **+1 bonus to spell attack rolls** and helps Oswin channel his optimistic magic.
+### **Traveler's Satchel of Endless Trinkets**
+- _Effect:_ Can conjure mundane non-magical items (chalk, rope, parchment, marbles, string) three times per day.
+### **Charm-Inscribed Cloak**
+- _Effect:_ +1 bonus to AC against ranged spell attacks.
 
-#### **🔸 Optimist’s Quill**
+---
 
-- **Description:** An enchanted quill that writes in glowing, ever-changing script.
-- **Benefit:** Once per day, Oswin can use it to **inspire himself or an ally**, gaining advantage on a Persuasion or Arcana check as the quill whispers encouraging words.
+## **Special Features & Roleplaying Tips**
 
-#### **🔸 Lightweight Cloak of Sunbeams**
-
-- **Description:** A sunlit, airy cloak that seems to shimmer with flecks of gold.
-- **Benefit:** Provides a **+1 bonus to AC** and advantage on saving throws against blinding effects or darkness-based spells.
+- **Special Abilities:**
+    - **Nature’s Resilience:**  Having attuned himself to the raw forces of the world, Oswin can instinctively sense environmental dangers (unstable magic, incoming storms, magical flora hazards) without needing a roll at the DM's discretion.
+    - **Bright Aura:**  Allies within 10 feet of Oswin have advantage on saving throws against fear effects, as his radiant optimism bolsters their spirits.
+    - **Elemental Affinity:**  When casting a spell that deals fire, lightning, or earth (force) damage, Oswin can add his Charisma modifier (+4) to one damage roll per spell.
+    
+- **Personality & Roleplaying Notes:**
+    - Oswin always looks for the silver lining, even when it seems foolish. A crumbling ruin isn’t a danger — it’s an “adventure waiting to happen.” A suspicious figure isn't an enemy — it’s “a potential new friend.”
+    - In arguments or tense moments, Oswin will try to mediate by appealing to people’s better nature, even when it seems naive. He prefers talking to fighting — unless the threat is truly undeniable.
+    
+- **Quirks:**
+    - Oswin has a habit of speaking aloud to plants, animals, or elements of nature around him as though they understand, often with encouraging words.
+    - He frequently compares magical phenomena to natural elements, like “That spell hit like a summer thunderstorm!”
